@@ -1,5 +1,5 @@
 # Hospital_patient_tracking_system-1
-Title:Hospital Patient Tracking system.
+Title: Hospital Patient Tracking system
 Submitted by: Nihil dharsini.B.K,Mathumitha sree.M,Lalith khala.P [CSE-B]
 
 1.Introduction
