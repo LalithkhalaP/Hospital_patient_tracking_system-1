@@ -3,16 +3,9 @@ Title:Hospital Patient Tracking system.
 
 Submitted by: Nihil dharsini.B.K,Mathumitha sree.M,Lalith khala.P [CSE-B]
 Insitution: SRM TRP ENGINEERING COLLEGE.
-Date:
-
-
-
 1.Introduction
- 
-Managing patient records in hospitals is essential for improving healthcare outcomes and supporting SDG 3 (Good Health and Well-Being). This project implements a Hospital Patient Tracking System in C using a Doubly Linked List. The system allows efficient addition, search, update, deletion, and display of patient information.
-
+ Managing patient records in hospitals is essential for improving healthcare outcomes and supporting SDG 3 (Good Health and Well-Being). This project implements a Hospital Patient Tracking System in C using a Doubly Linked List. The system allows efficient addition, search, update, deletion, and display of patient information.
 2. Objectives
-
 To implement a dynamic patient record system using doubly linked lists.
 
 To support essential operations: add, search, update, delete, display.
@@ -20,7 +13,6 @@ Managing patient records in hospitals is essential for improving healthcare outc
 To demonstrate effective use of data structures in healthcare management.
 
 3. Software Requirements
-
 Language: C
 
 Editor/IDE: VS Code
@@ -78,20 +70,17 @@ displayForward() / displayBackward(): Shows patient IDs from head-to-tail or tai
 Menu System:
 The user is presented with a menu to choose different operations, making the system interactive and user-friendly.
 8. Conclusion
-
 The project demonstrates how data structures are used for dynamic management of hospital records. 
 The doubly linked list enables efficient insertion, deletion, and bidirectional traversal, 
 supporting real-world healthcare management aligned with SDG 3.
 
 9. Future Enhancements
-
 • Persistent storage (file/database)
 • User authentication
 • GUI interface
 • Multi-user/networking support
 
 10. References
-
 • SDG 3 Documentation
 • GCC Documentation
 • VS Code Documentation
